@@ -1,0 +1,5 @@
+pytest==3.0.7
+pytest-quickcheck==0.8.2
+coverage==4.3.4
+pytest-cov==2.4.0
+testfixtures==4.9.1

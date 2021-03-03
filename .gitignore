@@ -1,0 +1,10 @@
+*~
+*.py[cod]
+.coverage
+.idea
+.eggs
+*.xml
+htmlcov/
+build
+*.egg-info
+dist
